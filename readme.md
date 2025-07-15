@@ -96,12 +96,12 @@ pip install google-generativeai pillow python-docx python-dotenv
 
 
 ---
+`第1份測試資料`
 
-第1份測試資料
 <table>
   <tr>
     <td>
-        測試題目</br>
+        `測試題目`</br>
         今天天氣很好，我們下午去公園散步。</br>
         請在下午3點前，到A棟201號會議室開會。</br>
         我辨認出臺灣的鳳梨酥包裝袋很精緻。</br>
@@ -111,14 +111,14 @@ pip install google-generativeai pillow python-docx python-dotenv
   </tr>
   <tr>
     <td>
-        gemini-1.5-flash</br>
+        `gemini-1.5-flash`</br>
         今天天氣很好，我們下午去公園散步。</br>
         請在下午3點前，到日棟201號會議室開會。</br>
         我辨認出台灣的鳳梨酥包裝袋很精緻。</br>
         你真的相信「天下沒有白吃的午餐」這句話嗎？        
     </td>
     <td>
-        gemini-2.5-pro</br>
+        `gemini-2.5-pro`</br>
         今天天氣很好,我們下午去公園散步。</br>
         請在下午3點前,到A棟201號會議室開會。</br>
         我辨認出臺灣的鳳梨酥包裝袋很精緻。</br>
@@ -127,7 +127,7 @@ pip install google-generativeai pillow python-docx python-dotenv
   </tr>
   <tr>
     <td>
-        最終結果</br>
+        `最終結果`</br>
         今天天氣很好，我們下午去公園散步。</br>
         請在下午3點前，到A棟201號會議室開會。</br>
         我辨認出臺灣的鳳梨酥包裝袋很精緻。</br>
