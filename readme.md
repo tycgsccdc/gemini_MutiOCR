@@ -107,13 +107,7 @@ pip install google-generativeai pillow python-docx python-dotenv
         我辨認出臺灣的鳳梨酥包裝袋很精緻。</br>
         你真的相信「天下沒有白吃的午餐」這句話嗎？
     </td>
-    <td>
-        最終結果</br>
-        今天天氣很好，我們下午去公園散步。</br>
-        請在下午3點前，到A棟201號會議室開會。</br>
-        我辨認出臺灣的鳳梨酥包裝袋很精緻。</br>
-        你真的相信「天下沒有白吃的午餐」這句話嗎？
-    </td>
+
   </tr>
   <tr>
     <td>
@@ -129,6 +123,15 @@ pip install google-generativeai pillow python-docx python-dotenv
         請在下午3點前,到A棟201號會議室開會。</br>
         我辨認出臺灣的鳳梨酥包裝袋很精緻。</br>
         你真的相信「天下沒有白吃的午餐」這句話嗎?
+    </td>
+  </tr>
+  <tr>
+    <td>
+        最終結果</br>
+        今天天氣很好，我們下午去公園散步。</br>
+        請在下午3點前，到A棟201號會議室開會。</br>
+        我辨認出臺灣的鳳梨酥包裝袋很精緻。</br>
+        你真的相信「天下沒有白吃的午餐」這句話嗎？
     </td>
   </tr>
 </table>
