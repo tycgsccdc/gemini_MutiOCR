@@ -51,7 +51,7 @@ pip install google-generativeai pillow python-docx python-dotenv
 
 ### 3. 設定 API 金鑰
 
-1.  在專案資料夾中，您會找到一個名為 `.env` 的檔案。
+1.  在專案資料夾中建立一個名為 `.env` 的檔案。
 2.  用文字編輯器打開 `.env` 檔案。
 3.  將 `YOUR_API_KEY_HERE` 替換成您在步驟 1 中取得的真實 Gemini API 金鑰，然後儲存檔案。
 
